@@ -43,7 +43,7 @@ namespace WpfAppWithDll
                 label1.Content = ex.Message;
             }
         }
-        private void Equals_Click(object sender, RoutedEventArgs e)
+         private void Equals_Click(object sender, RoutedEventArgs e)
         {
             string number1_txt = textbox1.Text;
             string number2_txt = textbox2.Text;
@@ -57,6 +57,29 @@ namespace WpfAppWithDll
             catch (Exception ex)
             {
                 label1.Content = ex.Message;
+            }
+        }
+        public string Equals_Click(int number1, int number2)
+        {
+          
+            try
+            {
+                return resultEquals.Text = LibraryImport.equeals(number1, number2).ToString();
+            }
+            catch (Exception ex)
+            {
+               return ex.Message;
+            }
+        }
+        public string Summ_Click(int number1, int number2)
+        {
+            try
+            {
+               return resultSumm.Text = LibraryImport.summ(number1, number2).ToString();
+            }
+            catch (Exception ex)
+            {
+                return ex.Message;
             }
         }
 

@@ -28,3 +28,18 @@ C:\Users\Bobr\Desktop\WpfAppWithDll\WpfAppWithDll\obj\Debug\WpfAppWithDll.csproj
 C:\Users\Bobr\Desktop\WpfAppWithDll\WpfAppWithDll\obj\Debug\WpfAppWithDll.csproj.CoreCompileInputs.cache
 C:\Users\Bobr\Desktop\WpfAppWithDll\WpfAppWithDll\obj\Debug\WpfAppWithDll.exe
 C:\Users\Bobr\Desktop\WpfAppWithDll\WpfAppWithDll\obj\Debug\WpfAppWithDll.pdb
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\obj\Debug\WpfAppWithDll.csprojAssemblyReference.cache
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\obj\Debug\MainWindow.g.cs
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\obj\Debug\App.g.cs
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\obj\Debug\WpfAppWithDll_MarkupCompile.cache
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\obj\Debug\WpfAppWithDll_MarkupCompile.lref
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\obj\Debug\WpfAppWithDll.exe
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\obj\Debug\WpfAppWithDll.pdb
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\bin\Debug\WpfAppWithDll.exe.config
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\bin\Debug\WpfAppWithDll.exe
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\bin\Debug\WpfAppWithDll.pdb
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\obj\Debug\MainWindow.baml
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\obj\Debug\WpfAppWithDll.g.resources
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\obj\Debug\WpfAppWithDll.Properties.Resources.resources
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\obj\Debug\WpfAppWithDll.csproj.GenerateResource.cache
+E:\YandexDisk\МИРЭА\3 Курс\Тестирование и верификация программного обеспечения\ProjectsVS\WpfAppWithDll\WpfAppWithDll\obj\Debug\WpfAppWithDll.csproj.CoreCompileInputs.cache
