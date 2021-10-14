@@ -30,6 +30,28 @@ namespace UnitTestProject3
             string actual = c.Summ_Click(number1, number2);
             Assert.AreEqual(expected, actual);
         }
+        [TestMethod]
+        public void TestMethod3()
+        {
+            int number1 = 3;
+            int number2 = 1;
+
+            string expected = "False";
+            MainWindow c = new MainWindow();
+            string actual = c.Equals_Click(number1, number2);
+            Assert.AreEqual(expected, actual);
+        }
+        [TestMethod]
+        public void TestMethod4()
+        {
+            int number1 = 3;
+            int number2 = 1;
+
+            string expected = "4";
+            MainWindow c = new MainWindow();
+            string actual = c.Summ_Click(number1, number2);
+            Assert.AreEqual(expected, actual);
+        }
     }
 
 
